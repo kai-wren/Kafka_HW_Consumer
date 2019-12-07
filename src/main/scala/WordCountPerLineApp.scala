@@ -1,0 +1,3 @@
+object WordCountPerLineApp extends App {
+
+}
